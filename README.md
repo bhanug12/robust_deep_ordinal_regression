@@ -1,4 +1,8 @@
-We release the code for the paper - Robust Deep Ordinal Regression under Label Noise https://arxiv.org/pdf/1912.03488.pdf
+We release the code for the paper - Robust Deep Ordinal Regression under Label Noise https://arxiv.org/pdf/1912.03488.
+
+Abstract: The real-world data is often susceptible to label noise, which might constrict the effectiveness of the existing state of the art algorithms for ordinal regression. Existing works on ordinal regression do not take label noise into account. We propose a theoretically grounded approach for class conditional label noise in ordinal regression problems. We present a deep learning implementation of two commonly used loss functions for ordinal regression that is both - 1) robust to label noise, and 2) rank consistent for a good ranking rule. We verify these properties of the algorithm empirically and show robustness to label noise on real data and rank consistency. To the best of our knowledge, this is the first approach for robust ordinal regression models.
+
+Published as a conference paper in the 12th Asian Conference of Machine Learning. 
 
 Cite the paper as: 
 
