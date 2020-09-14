@@ -1,0 +1,50 @@
+_model
+Train -- MSE / MAE / MZO : 0.857 / 0.579 / 0.506
+Test -- MSE / MAE / MZO : 0.702 / 0.451 / 0.431
+Train _ std -- MSE / MAE / MZO : 0.0000 / 0.0000 / 0.0000
+Test _ std -- MSE / MAE / MZO : 0.0000 / 0.0000 / 0.0000
+_model
+Train -- MSE / MAE / MZO : 0.862 / 0.573 / 0.494
+Test -- MSE / MAE / MZO : 0.707 / 0.453 / 0.431
+Train _ std -- MSE / MAE / MZO : 0.0050 / 0.0060 / 0.0114
+Test _ std -- MSE / MAE / MZO : 0.0055 / 0.0018 / 0.0006
+_model
+Train -- MSE / MAE / MZO : 0.864 / 0.572 / 0.491
+Test -- MSE / MAE / MZO : 0.700 / 0.439 / 0.413
+Train _ std -- MSE / MAE / MZO : 0.0045 / 0.0053 / 0.0103
+Test _ std -- MSE / MAE / MZO : 0.0105 / 0.0207 / 0.0246
+_model
+Train -- MSE / MAE / MZO : 0.864 / 0.572 / 0.491
+Test -- MSE / MAE / MZO : 0.705 / 0.444 / 0.417
+Train _ std -- MSE / MAE / MZO : 0.0039 / 0.0046 / 0.0090
+Test _ std -- MSE / MAE / MZO : 0.0125 / 0.0199 / 0.0223
+_model
+Train -- MSE / MAE / MZO : 0.862 / 0.573 / 0.493
+Test -- MSE / MAE / MZO : 0.695 / 0.435 / 0.412
+Train _ std -- MSE / MAE / MZO : 0.0048 / 0.0046 / 0.0096
+Test _ std -- MSE / MAE / MZO : 0.0237 / 0.0243 / 0.0226
+_model
+Train -- MSE / MAE / MZO : 0.857 / 0.568 / 0.491
+Test -- MSE / MAE / MZO : 0.697 / 0.437 / 0.412
+Train _ std -- MSE / MAE / MZO : 0.0126 / 0.0112 / 0.0107
+Test _ std -- MSE / MAE / MZO : 0.0223 / 0.0223 / 0.0207
+_model
+Train -- MSE / MAE / MZO : 0.858 / 0.569 / 0.492
+Test -- MSE / MAE / MZO : 0.697 / 0.437 / 0.412
+Train _ std -- MSE / MAE / MZO : 0.0119 / 0.0108 / 0.0102
+Test _ std -- MSE / MAE / MZO : 0.0207 / 0.0207 / 0.0192
+_model
+Train -- MSE / MAE / MZO : 0.857 / 0.568 / 0.490
+Test -- MSE / MAE / MZO : 0.695 / 0.435 / 0.411
+Train _ std -- MSE / MAE / MZO : 0.0112 / 0.0104 / 0.0101
+Test _ std -- MSE / MAE / MZO : 0.0198 / 0.0200 / 0.0186
+_model
+Train -- MSE / MAE / MZO : 0.857 / 0.568 / 0.490
+Test -- MSE / MAE / MZO : 0.697 / 0.436 / 0.411
+Train _ std -- MSE / MAE / MZO : 0.0105 / 0.0099 / 0.0096
+Test _ std -- MSE / MAE / MZO : 0.0196 / 0.0193 / 0.0176
+_model
+Train -- MSE / MAE / MZO : 0.858 / 0.568 / 0.490
+Test -- MSE / MAE / MZO : 0.699 / 0.436 / 0.411
+Train _ std -- MSE / MAE / MZO : 0.0102 / 0.0094 / 0.0091
+Test _ std -- MSE / MAE / MZO : 0.0194 / 0.0183 / 0.0168

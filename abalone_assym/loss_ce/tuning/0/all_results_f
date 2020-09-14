@@ -1,0 +1,25 @@
+0.001_6
+Train -- MSE / MAE / MZO : 0.680 / 0.418 / 0.397
+Test -- MSE / MAE / MZO : 0.689 / 0.425 / 0.401
+Train _ std -- MSE / MAE / MZO : 0.0031 / 0.0036 / 0.0034
+Test _ std -- MSE / MAE / MZO : 0.0149 / 0.0135 / 0.0179
+0.001_7
+Train -- MSE / MAE / MZO : 0.676 / 0.413 / 0.391
+Test -- MSE / MAE / MZO : 0.684 / 0.418 / 0.394
+Train _ std -- MSE / MAE / MZO : 0.0047 / 0.0041 / 0.0034
+Test _ std -- MSE / MAE / MZO : 0.0218 / 0.0144 / 0.0155
+0.001_8
+Train -- MSE / MAE / MZO : 0.681 / 0.417 / 0.395
+Test -- MSE / MAE / MZO : 0.690 / 0.425 / 0.399
+Train _ std -- MSE / MAE / MZO : 0.0033 / 0.0025 / 0.0046
+Test _ std -- MSE / MAE / MZO : 0.0140 / 0.0095 / 0.0126
+0.001_9
+Train -- MSE / MAE / MZO : 0.675 / 0.410 / 0.387
+Test -- MSE / MAE / MZO : 0.685 / 0.420 / 0.396
+Train _ std -- MSE / MAE / MZO : 0.0048 / 0.0034 / 0.0053
+Test _ std -- MSE / MAE / MZO : 0.0198 / 0.0090 / 0.0083
+0.001_10
+Train -- MSE / MAE / MZO : 0.674 / 0.409 / 0.387
+Test -- MSE / MAE / MZO : 0.689 / 0.424 / 0.399
+Train _ std -- MSE / MAE / MZO : 0.0030 / 0.0030 / 0.0054
+Test _ std -- MSE / MAE / MZO : 0.0168 / 0.0120 / 0.0122
